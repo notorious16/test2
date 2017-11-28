@@ -1,0 +1,75 @@
+.container {
+    margin-top: 30px;
+    text-align: center;
+}
+textarea {
+    resize: none;
+    width: 400px;
+}
+.p {
+    margin-top:20px;
+}
+p input:first-child{
+    height: 50px;
+    width: 250px;
+    margin: 0 auto;
+}
+.wrapper {
+    width: 36%;
+    max-width: 360px;
+    margin:0 auto;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+/*form > * {*/
+    /*display: block;*/
+    /*text-align: center;*/
+/*}*/
+.login {
+    height:175px;
+    width:175px;
+}
+.btn-success {
+    margin-top: 10px;
+}
+.picture_preview {
+    margin: 10px auto;
+    max-width:320px;
+    max-height:240px;
+    overflow: hidden;
+    text-align: center;
+}
+div#preview_info>a {
+    display: block;
+    width:140px;
+}
+#return {
+    margin-top:10px;
+    width: 135px;
+}
+.ok{
+    border: 1px solid green;
+}
+ .error{
+     border: 1px solid red;
+ }
+ form {
+     margin-top: 10px;
+ }
+ div.main a:first-child {
+     margin-right: 10px;
+ }
+ .container .row img {
+     width: 320px;
+     height: auto;
+ }
+ .container .row div.tasks {
+     margin-top:20px;
+ }
+ .msg_admin {
+text-align:right;
+     font-weight: bold;
+     color: forestgreen;
+ }
